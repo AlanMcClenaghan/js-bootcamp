@@ -19,7 +19,8 @@ let otherValue = square(10)
 console.log(value)
 console.log(otherValue)
 
-// Challenge Area
+
+// Challenge - Fahenheit to Celsius converter
 
 let convertFahenheitToCelsius = function (fahrenheit) {
     let celsius = (fahrenheit - 32) * 5/9;
