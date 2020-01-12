@@ -10,7 +10,7 @@ let min = 0
 let max = 1
 let randomNum = Math.floor(Math.random() * (max - min + 1)) + min
 
-// Challenge area
+// Challenge
 // 1 - 5 - true if correct - false if not correct
 let makeGuess = function (guess) {
     let min = 1
